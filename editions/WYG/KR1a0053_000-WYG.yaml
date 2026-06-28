@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1a0053/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書經部一
+  hash: sha256:5111095677a17a819f758c15b1f1277a321ca96156d9a58f561e94ee59984d92
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1a0053_WYG_000-1a, image: WYG0018/WYG0018-0107a.png}
+body:
+  text: 易象意言易類提要臣等謹案易象意言一卷宋蔡淵撰淵蔡元定之子蔡沈兄也嘗從學于朱子故闡易理者居多而不廢漢儒互體之說則兼言象數又其家學矣夫易即象數以寓理京焦諸家流為術數占候之學固失聖人之本旨自王弼之易既行儒者遂置象數于不講而所謂理者亦漸流為空談矣淵是書以易象為名而所言皆即象以窮理葢易學之能酌其中者世無傳本故朱􅂜尊經義攷以為已佚永樂大典所載首尾完具猶當時祕府舊本謹録而傳之俾學易者有攷焉乾隆四十六年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:8fbd9c8b10f134df3fd9bf5d1d1cdc45685fda1882a71a3fc901a97050d0ee00
+metadata:
+  title: 易象意言
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 21:55:36.307176'
+  source:
+    repository: kanripo
+    path: KR1a0053/KR1a0053_000.txt
+hash: sha256:bf231ea55e8dbfe69807fa2ab9ba72abf40887e01e150f296722cd34fe36fdbc
